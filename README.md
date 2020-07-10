@@ -1,6 +1,6 @@
 Tiago Silva Miguel
 =============
-![](https://img.shields.io/github/forks/linkmadao/editor.md.svg)
+![](https://img.shields.io/github/forks/linkmadao/translation-framework-api/editor.md.svg)
 
 ### Hi there 👋
 

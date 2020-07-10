@@ -1,6 +1,6 @@
 Tiago Silva Miguel
 =============
-
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 ### Hi there 👋
 

@@ -25,3 +25,6 @@ I'm Tiago Silva, I'm a Backend developer 👨‍💻 who is passionate about .Ne
   - Html;
   - CSS;
   - Jquery;
+
+[![card](https://github-readme-stats.vercel.app/api?username=linkmadao&theme=default)](https://github.com/linkmadao/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=linkmadao&hide=html&layout=compact&theme=default)](https://github.com/linkmadao/)

@@ -9,19 +9,22 @@ Tiago Silva Miguel
 I'm Tiago Silva, I'm a Backend developer 👨‍💻 who is passionate about .Net technologies and its entire ecosystem. 
 
 - 🔭 I’m currently work in a software factory developing improvements and implementations of new features to Web solutions, report generation and others Asp.NetCore apps/systems.
-- 🌱 I’m currently learning IA, Python, Devops and of course C# improvments.
+- 🌱 I’m currently learning Devops and C# improvments.
 - 👯 I’m looking to collaborate on game translation projects.
 - 💬 Ask me about: tech, anime and a little bit about investments.
 - ⚡ Knowledge: 
-  - .Net Core
-  - .Net Framework
-  - Relational Databases (MySQL, SQL Server, Firebird) and Non Relational Database (MongoDB);
-  - DDD Architecture;
-  - Entity Framework 5 and 6;
-  - MVC 4 and 5;
-  - Git Repositories (Gitlab, Github, Azure) and TFS;
-  - Application Servers IIS, Apache, Nginx;
-  - CI/CD (Jenkins);
+  - .Net (5, 6, 7, 8);
+  - .Net Core (2.0, 3.0, 3.1);
+  - .Net Framework (3.5, 4.0, 4.5);
+  - Architectures (MVC, Hexagonal);
+  - Relational Databases (MariaDB, MySQL, SQL Server, PostgreSQl, Firebird, Oracle);
+  - Non Relational Database (MongoDB, DynamoDB);
+  - Domain Driven Design;
+  - SOLID;
+  - Entity Framework (5, 6, 7);
+  - Git Repositories (Gitlab, Github, Azure);
+  - Application Servers (IIS, Apache, Nginx);
+  - CI/CD (Jenkins, Github Actions);
   - Html;
   - CSS;
   - Jquery;

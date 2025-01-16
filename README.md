@@ -18,10 +18,10 @@ I'm Tiago Silva, I'm a Backend developer 👨‍💻 who is passionate about .Ne
   - Architectures (MVC, Hexagonal);
   - Relational Databases (MariaDB, MySQL, SQL Server, PostgreSQl, Firebird, Oracle);
   - Non Relational Database (MongoDB, DynamoDB);
+  - ORM (Dapper, Entity Framework, Entity Framework Core)
   - Cache (Redis)
   - Domain Driven Design;
   - SOLID;
-  - Entity Framework (5, 6, 7);
   - Git Repositories (Gitlab, Github, Azure);
   - Application Servers (IIS, Apache, Nginx);
   - CI/CD (Jenkins, Github Actions);

@@ -12,13 +12,14 @@ I'm Tiago Silva, I'm a Backend developer 👨‍💻 who is passionate about .Ne
 - 🌱 I’m currently learning Devops and C# improvments.
 - 👯 I’m looking to collaborate on game translation projects.
 - 💬 Ask me about: tech, anime and a little bit about investments.
-- ⚡ Knowledge: 
+- ⚡ Knowledge:   
   - .Net (5, 6, 7, 8);
-  - .Net Core (2.0, 3.0, 3.1);
-  - .Net Framework (3.5, 4.0, 4.5);
+  - .Net Core (2.1, 3.0, 3.1);
+  - .Net Framework (3.5, 4.0, 4.5, 4.7, 4.8);
   - Architectures (MVC, Hexagonal);
   - Relational Databases (MariaDB, MySQL, SQL Server, PostgreSQl, Firebird, Oracle);
   - Non Relational Database (MongoDB, DynamoDB);
+  - Cache (Redis)
   - Domain Driven Design;
   - SOLID;
   - Entity Framework (5, 6, 7);

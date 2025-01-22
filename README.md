@@ -1,7 +1,6 @@
 Tiago Silva Miguel
 =============
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago_Silva_Miguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosilvamiguel/)](https://www.linkedin.com/in/tiagosilvamiguel/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10229652/tiago-silva-miguel)](https://stackoverflow.com/users/10229652/tiago-silva-miguel)
+Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Tiago_Silva_Miguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosilvamiguel/)](https://www.linkedin.com/in/tiagosilvamiguel/)
 
 
 ### Hi 👋
